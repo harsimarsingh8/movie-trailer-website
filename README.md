@@ -2,7 +2,12 @@
 
 > Harsimar Singh
 
-----------------------------------------
+-----------------------------------------------------------
+
+* The live streaming of [project](https://harsimarsingh8.github.io/movie-trailer-website/fresh_tomatoes.html).
+* Project can be viewed at my [Github Repository](https://github.com/harsimarsingh8/movie-trailer-website).
+
+------------------------------------------------------------
 ### About
 This is the first project of the Udacity Full Stack Nanodegree course. The program displays a webpage of different movies and clicking on the movie titles plays a popup of the movie trailer from a youtube link.
 
